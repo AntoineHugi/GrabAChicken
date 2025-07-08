@@ -1,0 +1,42 @@
+/* XPM */
+/* artist: kenmi-art */
+static char *_cdaf14952674a82912bac6dfca7878eviBhL8AQzc5GIx9g[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 3 1 ",
+"  c #B86F50",
+". c #D99359",
+"X c #E4A672",
+/* pixels */
+"XXXX....XXXXXX....XXXXXX....XXXX",
+"XX... ....XX...  ...XX...  ...XX",
+"X..     ......    ......     ..X",
+"..           ....             ..",
+".                              .",
+".                              .",
+".                              .",
+".                              .",
+"X.                            .X",
+"X.                            .X",
+"XX.                          .XX",
+"X.                            .X",
+"X.                            .X",
+".                              .",
+".                              .",
+".                              .",
+".                              .",
+".                              .",
+"X.                            .X",
+"X.                            .X",
+"XX.                          .XX",
+"X.                            .X",
+"X.                            .X",
+".                              .",
+".                              .",
+".                              .",
+".                              .",
+".                              .",
+"..                            ..",
+"X.   ....      ....           .X",
+"XX... ...XX...  ...XXXX... ...XX",
+"XXXX....XXXXX....XXXXXX.....XXXX"
+};
